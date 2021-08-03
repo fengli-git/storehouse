@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T12:03:59.301Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UfhgeQbm-T0vdzc8_-Wd" version="14.9.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-03T12:05:30.888Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="w3_TB07YlJSvIUPDnR_7" version="14.9.3" type="github" pages="5">
   <diagram id="J6X2gmCy10jF-p2Zyp9w" name="添加标记时间点-流程图">
     <mxGraphModel dx="1413" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -247,17 +247,17 @@
       <root>
         <mxCell id="wTRBRfkSuzLv79Qkh0ZR-0" />
         <mxCell id="wTRBRfkSuzLv79Qkh0ZR-1" parent="wTRBRfkSuzLv79Qkh0ZR-0" />
-        <mxCell id="r0TkrbjqXSI8EQbzST39-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=0;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
-          <mxGeometry x="270" y="110" width="500" height="430" as="geometry" />
+        <mxCell id="r0TkrbjqXSI8EQbzST39-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#5C5C5C;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
+          <mxGeometry x="267" y="138" width="505" height="382" as="geometry" />
         </mxCell>
-        <mxCell id="r0TkrbjqXSI8EQbzST39-2" value="图像显示区域" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=0;fillColor=#f5f5f5;fontColor=#333333;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
+        <mxCell id="r0TkrbjqXSI8EQbzST39-2" value="图像显示区域" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#A1A1A1;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
           <mxGeometry x="270" y="180" width="500" height="290" as="geometry" />
         </mxCell>
         <mxCell id="r0TkrbjqXSI8EQbzST39-3" value="标记1&lt;br&gt;标记2&lt;br&gt;标记3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
-          <mxGeometry x="280" y="490" width="50" height="50" as="geometry" />
+          <mxGeometry x="287" y="461" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r0TkrbjqXSI8EQbzST39-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;strokeColor=#454545;fillColor=none;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
-          <mxGeometry x="260" y="460" width="150" height="100" as="geometry" />
+          <mxGeometry x="259" y="450" width="107" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r0TkrbjqXSI8EQbzST39-6" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.364;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="wTRBRfkSuzLv79Qkh0ZR-1" source="r0TkrbjqXSI8EQbzST39-7" target="r0TkrbjqXSI8EQbzST39-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r0TkrbjqXSI8EQbzST39-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;标记展示区域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wTRBRfkSuzLv79Qkh0ZR-1" vertex="1">
-          <mxGeometry x="440" y="560" width="110" height="20" as="geometry" />
+          <mxGeometry x="424" y="542" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
